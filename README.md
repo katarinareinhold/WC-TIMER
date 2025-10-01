@@ -7,12 +7,16 @@ https://trello.com/b/YtGJEGvT/wc-timer
 https://github.com/katarinareinhold/WC-TIMER/blob/main/Paberprotot%C3%BC%C3%BCp.jpg
 
 Progesime osaliselt koos, et kõik omavahel töötaks. Failijaotus: Marin - app.py & models.py; Katarina - login.html & feedback.html; Lisette - index.html & style.css
+
 Hetkel on kolm VIP kasutajat 
 marin	parool1	
 lisette	parool2	
 kata	parool3	
+
 Juhend: Lae alla wc-timer-projekt.zip ja unzipi 
+
   Arvutis lokaalselt jooksutamiseks: 
+  
   Linux 
   1. Eeltingimused: Värskenda pakke ja paigalda Python ning venv (kui pole juba süsteemis olemas)
   sudo apt update
